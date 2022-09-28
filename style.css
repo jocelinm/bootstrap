@@ -10,3 +10,7 @@
 body{
     background-color: brown;
 }
+img {
+    height: 300px;
+    width:400px;
+}
